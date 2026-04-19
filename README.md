@@ -15,6 +15,3 @@ It calculates the GPA using loops and assigns grades based on performance.
 - Java  
 - OOP Concepts  
 - Loops and Arrays  
-
-## ▶️ How to Run
-1. Compile the program:
